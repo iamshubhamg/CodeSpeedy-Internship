@@ -1,5 +1,5 @@
 # CodeSpeedy-Internship
-The repository contains all my C++, Tutorials Codes and Blogs which I published during my Internship
+## *The repository contains all my C++ Tutorials Codes and Blogs, which I published during my Internship at CodeSpeedy Technology Private Limited.*
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
