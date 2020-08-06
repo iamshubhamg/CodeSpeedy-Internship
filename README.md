@@ -4,3 +4,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
 1. [Shift Operators in C++](https://github.com/iamshubhamg/CodeSpeedy-Internship/blob/master/Shift%20Operators/Shift%20Operators%20in%20C%2B%2B.md).
+
+2. [Message Passing in C++](https://github.com/iamshubhamg/CodeSpeedy-Internship/blob/master/Message%20Passing/MessagePassingInC%2B%2B.md).
